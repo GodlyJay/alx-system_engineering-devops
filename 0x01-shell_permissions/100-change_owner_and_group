@@ -1,2 +1,2 @@
-#!/bin/bash
-chown vicient:staff *
+i#!/bin/bash
+chown vicent:staff *
